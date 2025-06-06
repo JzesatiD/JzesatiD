@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.licdn.com/dms/image/v2/D5616AQE03z-M11ndYQ/profile-displaybackgroundimage-shrink_350_1400/B56ZW2jRzDHQAY-/0/1742524457323?e=1754524800&v=beta&t=wv1Ro_-RxTVL0WEz0_CCZpgTHfxJd0w3o6UavXfMGWA" width="500" />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQE03z-M11ndYQ/profile-displaybackgroundimage-shrink_350_1400/B56ZW2jRzDHQAY-/0/1742524457323?e=1754524800&v=beta&t=wv1Ro_-RxTVL0WEz0_CCZpgTHfxJd0w3o6UavXfMGWA" width="800" />
 </p>
 Hi 👋, I'm Johnny
 
