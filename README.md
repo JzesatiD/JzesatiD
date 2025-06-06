@@ -1,8 +1,9 @@
 <p align="center">
 <img src="https://media.licdn.com/dms/image/v2/D5616AQE03z-M11ndYQ/profile-displaybackgroundimage-shrink_350_1400/B56ZW2jRzDHQAY-/0/1742524457323?e=1754524800&v=beta&t=wv1Ro_-RxTVL0WEz0_CCZpgTHfxJd0w3o6UavXfMGWA" width="500" />
 </p>
-- Hi 👋, I'm Johnny. 
-  A Data Analyst from Los Angeles, CA
+Hi 👋, I'm Johnny
+
+- Data Analyst from Los Angeles, CA
 - 🔭 I’m currently working on **I’m currently working on a British Airways Project and getting my portfolio setup**
 
 - 🌱 I’m currently learning **Power BI & MS SQL Server Integration**
