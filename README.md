@@ -4,7 +4,7 @@
 Hi 👋, I'm Johnny
 
 - Data Analyst from Los Angeles, CA
-- 🔭 I’m currently working on **I’m currently working on a British Airways Project and getting my portfolio setup**
+- 🔭 I’m currently working on **Working on an End-to-end SQL ==> PowerBI Project while dressing my portfolio**
 
 - 🌱 I’m currently learning **Power BI & MS SQL Server Integration**
 
