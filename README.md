@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://pixabay.com/illustrations/banner-header-blocks-blue-banner-1557881/" width="800" />
+<img src="https://pixabay.com/illustrations/banner-header-blocks-blue-banner-1557881" width="800" />
 </p>
 Hi 👋, I'm Johnny
 
