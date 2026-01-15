@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://drive.google.com/file/d/1o3Wk-_ekaH6l_HLbyedwU1t8FAcWR1ir/view?usp=drive_link" width="800" />
+<img src="https://cdn.pixabay.com/photo/2016/11/29/13/01/stars-1869692_1280.jpg" width="800" />
 </p>
 Hi 👋, I'm Johnny
 
