@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.pixabay.com/photo/2015/06/30/00/19/mountain-826114_1280.jpg" width="800" />
+<img src="https://drive.google.com/file/d/1o3Wk-_ekaH6l_HLbyedwU1t8FAcWR1ir/view?usp=drive_link" width="800" />
 </p>
 Hi 👋, I'm Johnny
 
