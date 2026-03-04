@@ -6,7 +6,7 @@ Hi, I'm Johnny
 🏗️ Analytics Engineering & Data DevOps - From Los Angeles, CA
 
 Architecting a sovereign, production-grade Data Lakehouse on bare-metal Ubuntu.
-Why rent the cloud when you can build the refinery? I’ve engineered a “personal-scale Snowflake” stack—managing the full lifecycle from Dockerized infrastructure and Meltano ingestion to refined dbt modeling.
+Why rent the cloud when you can build the refinery? I’ve engineered a “personal-scale Snowflake” stack - managing the full lifecycle from Dockerized infrastructure and Meltano ingestion to refined dbt modeling.
 Bridging the gap between raw DevOps and business-ready insights.
 
 - Infrastructure-as-Code (IaC): Engineered a portable Docker-based ecosystem hosting a Postgres Lakehouse, reducing environment setup time from hours to a single docker-compose up command.
